@@ -162,13 +162,13 @@
         <div class="recipe-container">  
            <div class="recipe">  
               <h2>Pancakes</h2>  
-              <img src="pancakes.jpg" alt="Pancakes">  
+              <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe.jpg" alt="Pancakes">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('pancakes')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Scrambled Eggs</h2>  
-              <img src="scrambled-eggs.jpg" alt="Scrambled Eggs">  
+              <img src="https://cdn.loveandlemons.com/wp-content/uploads/2021/05/scrambled-eggs-1-580x851.jpg" alt="Scrambled Eggs">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('scrambled-eggs')">View Recipe</button>  
            </div>  
@@ -179,13 +179,13 @@
         <div class="recipe-container">  
            <div class="recipe">  
               <h2>Grilled Chicken Sandwich</h2>  
-              <img src="grilled-chicken-sandwich.jpg" alt="Grilled Chicken Sandwich">  
+              <img src="https://easychickenrecipes.com/wp-content/uploads/2023/06/grilled-chicken-sandwich-1-of-6-edited-768x1024.jpg" alt="Grilled Chicken Sandwich">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('grilled-chicken-sandwich')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Tomato Soup</h2>  
-              <img src="tomato-soup.jpg" alt="Tomato Soup">  
+              <img src="https://natashaskitchen.com/wp-content/uploads/2021/08/Tomato-Soup-Recipe-4-728x1092.jpg" alt="Tomato Soup">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('tomato-soup')">View Recipe</button>  
            </div>  
@@ -196,13 +196,13 @@
         <div class="recipe-container">  
            <div class="recipe">  
               <h2>Beef Stroganoff</h2>  
-              <img src="beef-stroganoff.jpg" alt="Beef Stroganoff">  
+              <img src="https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_913/k%2FPhoto%2FRecipes%2F2024-03-beef-stroganoff-190%2Fbeef-stroganoff-190-342_1" alt="Beef Stroganoff">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('beef-stroganoff')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Roasted Vegetables</h2>  
-              <img src="roasted-vegetables.jpg" alt="Roasted Vegetables">  
+              <img src="https://www.recipetineats.com/tachyon/2021/07/Roasted-Vegetables_55.jpg?resize=900%2C1260&zoom=0.72" alt="Roasted Vegetables">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('roasted-vegetables')">View Recipe</button>  
            </div>  
@@ -213,13 +213,13 @@
         <div class="recipe-container">  
            <div class="recipe">  
               <h2>Chocolate Cake</h2>  
-              <img src="chocolate-cake.jpg" alt="Chocolate Cake">  
+              <img src="https://cafedelites.com/wp-content/uploads/2020/04/cake.jpg" alt="Chocolate Cake">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('chocolate-cake')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Fruit Salad</h2>  
-              <img src="fruit-salad.jpg" alt="Fruit Salad">  
+              <img src="https://theforkedspoon.com/wp-content/uploads/2019/07/Fruit-Salad-5-700x1050.jpg" alt="Fruit Salad">  
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
               <button onclick="openModal('fruit-salad')">View Recipe</button>  
            </div>  
