@@ -49,7 +49,7 @@
       }  
  
     main {  
-        padding-top: 200px; /* adjust to the height of the header */  
+        padding-top: 50px; /* adjust to the height of the header */  
       } 
  
       section {  
