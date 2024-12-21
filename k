@@ -230,6 +230,7 @@
       </section>  
    </main>  
    <footer>  
+   <div><button onclick="openModal('citations')">View Citations</button> </div>
       <p>&copy; 2025 Recipe Book</p>  
    </footer>  
  
@@ -445,7 +446,28 @@
         </ol>  
       </div>  
    </div>  
- 
+ <div id="citations-modal" class="modal">  
+      <div class="modal-content">  
+        <span class="close">&times;</span>  
+        <h2>Citations</h2>
+        <ul>  
+           <li>“Best Homemade Pancake Recipe (Step-By-Step!).” How to Cook.Recipes, 10 Dec. 2020, www.howtocook.recipes/best-homemade-pancake-recipe/.</li>  
+           <li>“How to Make Scrambled Eggs.” Love and Lemons, 23 May 2021, www.loveandlemons.com/scrambled-eggs-recipe/.</li>  
+           <li>“Grilled Chicken Sandwiches.” Easy Chicken Recipes, 16 Nov. 2022, easychickenrecipes.com/grilled-chicken-sandwiches/.</li>  
+           <li>Kravchuk, Natasha . “Easy Tomato Soup Recipe.” NatashasKitchen.com, 6 Aug. 2021, natashaskitchen.com/tomato-soup-recipe/.</li>  
+           <li>Perlmutter, Rachel. “Beef Stroganoff.” Kitchn, The Kitchn, 7 Apr. 2024, www.thekitchn.com/beef-stroganoff-recipe-23651072. Accessed 21 Dec. 2024.</li>  
+           <li>Nagi. “Roasted Vegetables.” RecipeTin Eats, 19 July 2021, www.recipetineats.com/roasted-vegetables/.</li>  
+           <li>Karina. “Chocolate Cake.” Cafe Delites, 1 Apr. 2020, cafedelites.com/chocolate-cake/#recipe.</li>  
+           <li>Randhawa, Jessica. “Easy Fruit Salad Recipe.” The Forked Spoon, 2 July 2020, theforkedspoon.com/fruit-salad-recipe/</li>  
+           <li>Rombauer, Irma S, and Marion Rombauer Becker. Joy of Cooking. Simon and Schuster, 1975.</li>  
+           <li>Hazan, Marcella. Essentials of Classic Italian Cooking. Knopf, 20 July 2011.</li>  
+           <li>America's Test Kitchen. The Complete America’s Test Kitchen TV Show Cookbook 2001-2021. America’s Test Kitchen, 27 Oct. 2020.</li> 
+           <li>J. Kenji López-Alt. The Food Lab: Better Home Cooking through Science. W. W. Norton and Company, 21 Sept. 2015.</li> 
+           <li>Claiborne, Craig, and Pierre Franey. Craig Claiborne’s the New New York Times Cookbook. New York, Wings Books ; Avenel, N.J, 1995.</li> 
+           
+        </ul>  
+        </div>
+        </div>
    <script>  
       function openModal(recipe) {  
         var modal = document.getElementById(recipe + '-modal');  
