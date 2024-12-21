@@ -21,6 +21,14 @@
         left: 0;  
         width: 100%;  
         z-index: 1;  
+        
+      }
+            .banner {  
+        width: 100%;  
+        height: 20px;  
+        background-size: cover;  
+        background-position: center;  
+        background-image: url('https://picsum.photos/200/300');  
       }  
  
       nav ul {  
@@ -40,14 +48,9 @@
         text-decoration: none;  
       }  
  
-      main {  
-        display: flex;  
-        flex-direction: column;  
-        align-items: center;  
-        padding: 2em;  
-        margin-top: 60px; /* add space for the fixed header */  
-
-      }  
+    main {  
+        padding-top: 200px; /* adjust to the height of the header */  
+      } 
  
       section {  
         background-color: #ecd0c2;  
