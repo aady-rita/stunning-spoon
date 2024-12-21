@@ -12,7 +12,7 @@
       }  
  
       header {  
-        background-color: #fdedd6;  
+        background-color: #3d372e;  
         color: white;  
         padding: 1em;  
         text-align: center;  
@@ -163,13 +163,13 @@
            <div class="recipe">  
               <h2>Pancakes</h2>  
               <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe.jpg" alt="Pancakes">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>A Sweet and Fluffy Delicacy</p>  
               <button onclick="openModal('pancakes')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Scrambled Eggs</h2>  
               <img src="https://cdn.loveandlemons.com/wp-content/uploads/2021/05/scrambled-eggs-1-580x851.jpg" alt="Scrambled Eggs">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>A High-protein, healthy but delicious food!</p>  
               <button onclick="openModal('scrambled-eggs')">View Recipe</button>  
            </div>  
         </div>  
@@ -180,13 +180,13 @@
            <div class="recipe">  
               <h2>Grilled Chicken Sandwich</h2>  
               <img src="https://easychickenrecipes.com/wp-content/uploads/2023/06/grilled-chicken-sandwich-1-of-6-edited-768x1024.jpg" alt="Grilled Chicken Sandwich">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>Healthy, Flavourful, and Juicy sandwich</p>  
               <button onclick="openModal('grilled-chicken-sandwich')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Tomato Soup</h2>  
               <img src="https://natashaskitchen.com/wp-content/uploads/2021/08/Tomato-Soup-Recipe-4-728x1092.jpg" alt="Tomato Soup">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>Warm soup to Comfort you any day!</p>  
               <button onclick="openModal('tomato-soup')">View Recipe</button>  
            </div>  
         </div>  
@@ -197,13 +197,13 @@
            <div class="recipe">  
               <h2>Beef Stroganoff</h2>  
               <img src="https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_913/k%2FPhoto%2FRecipes%2F2024-03-beef-stroganoff-190%2Fbeef-stroganoff-190-342_1" alt="Beef Stroganoff">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>Juicy and Tender chunks of Beef well worth the effort!</p>  
               <button onclick="openModal('beef-stroganoff')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Roasted Vegetables</h2>  
               <img src="https://www.recipetineats.com/tachyon/2021/07/Roasted-Vegetables_55.jpg?resize=900%2C1260&zoom=0.72" alt="Roasted Vegetables">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>High-fiber, Nutritional Dinner!</p>  
               <button onclick="openModal('roasted-vegetables')">View Recipe</button>  
            </div>  
         </div>  
@@ -214,13 +214,13 @@
            <div class="recipe">  
               <h2>Chocolate Cake</h2>  
               <img src="https://cafedelites.com/wp-content/uploads/2020/04/cake.jpg" alt="Chocolate Cake">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>A Mouth-watering,Sweet, and Delicious Chocolate cake, </p>  
               <button onclick="openModal('chocolate-cake')">View Recipe</button>  
            </div>  
            <div class="recipe">  
               <h2>Fruit Salad</h2>  
               <img src="https://theforkedspoon.com/wp-content/uploads/2019/07/Fruit-Salad-5-700x1050.jpg" alt="Fruit Salad">  
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+              <p>A Refreshing and Fruity salad to fufill your Cravings!</p>  
               <button onclick="openModal('fruit-salad')">View Recipe</button>  
            </div>  
         </div>  
@@ -235,7 +235,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Pancakes Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>A Sweet and Fluffy Delicacy!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>1 cup all-purpose flour</li>  
@@ -263,7 +263,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Scrambled Eggs Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>A High-protein,Healthy, but Delicious food!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>2 eggs</li>  
@@ -285,7 +285,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Grilled Chicken Sandwich Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>Healthy,Flavourful, and Juicy sandwich!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>1 boneless, skinless chicken breast</li>  
@@ -309,7 +309,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Tomato Soup Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>Warm soup to Comfort you any day!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>2 tablespoons butter</li>  
@@ -335,7 +335,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Beef Stroganoff Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>Juicy and Tender chunks of Beef well worth the effort!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>1 pound beef strips</li>  
@@ -367,7 +367,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Roasted Vegetables Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>High-fiber, Nutritional Dinner!</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>2 tablespoons olive oil</li>  
@@ -391,7 +391,7 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Chocolate Cake Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>A Mouth-watering,Sweet, and Delicious Chocolate cake,</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>2 cups all-purpose flour</li>  
@@ -421,7 +421,9 @@
       <div class="modal-content">  
         <span class="close">&times;</span>  
         <h2>Fruit Salad Recipe</h2>  
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>  
+        <p>A Refreshing and Fruity salad to fufill your Cravings!
+
+</p>  
         <p>Ingredients:</p>  
         <ul>  
            <li>1 cup fresh pineapple, diced</li>  
