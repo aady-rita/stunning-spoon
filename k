@@ -12,8 +12,8 @@
       }  
  
       header {  
-        background-color: #333;  
-        color: #fff;  
+        background-color: #fdedd6;  
+        color: white;  
         padding: 1em;  
         text-align: center;  
         position: fixed;  
@@ -36,7 +36,7 @@
       }  
  
       nav a {  
-        color: #fff;  
+        color: #e8ba99;  
         text-decoration: none;  
       }  
  
@@ -50,7 +50,7 @@
       }  
  
       section {  
-        background-color: #f7f7f7;  
+        background-color: #ecd0c2;  
         padding: 1em;  
         margin-bottom: 20px;  
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
